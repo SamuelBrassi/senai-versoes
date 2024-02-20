@@ -1,2 +1,2 @@
 # senai-versoes-colaboracoes
-Primeiro comentario
+lembrei do comando: git commit
